@@ -85,7 +85,7 @@
 
 <addon id="plugin.video.telemedia19"                                                                                                                                    
 	   name="Telemedia 2.0"                                                 
-	   version="4.0.6"                                                                                                                                        
+	   version="4.0.6.1"                                                                                                                                        
 	   provider-name="Pavel Durov">
   <requires>
 
